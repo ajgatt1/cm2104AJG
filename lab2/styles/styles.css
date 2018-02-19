@@ -10,4 +10,7 @@ header,section,article,nav,aside,footer,div{
 }
 .BlogPost{font-style: italic;}
 
-#PageContent{border: red-dashed; }
+#PageContent{border-color: red}
+#SiteLogo{height:200px
+          width:100px}
+          
